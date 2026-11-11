@@ -150,7 +150,7 @@ Get the latest version from the **Releases** page.
 
 <div align="center">
 
-[![Download Chordly](https://img.shields.io/badge/⬇️_Download_Chordly_for_Android-FF2D55?style=for-the-badge&logoColor=white)](https://github.com/Callmerev95/Chordly/releases/latest)
+[![Download Chordly](https://img.shields.io/badge/⬇️_Download_Chordly_for_Android-FF2D55?style=for-the-badge&logoColor=white)](https://github.com/Callmerev95/Chordly-release/releases/latest)
 
 </div>
 
@@ -231,7 +231,7 @@ A maintenance release focused on the stability of the login process.
 
 </details>
 
-The full history is available on the [Releases](https://github.com/Callmerev95/Chordly/releases) page.
+The full history is available on the [Releases](https://github.com/Callmerev95/Chordly-release/releases) page.
 
 <br/>
 
